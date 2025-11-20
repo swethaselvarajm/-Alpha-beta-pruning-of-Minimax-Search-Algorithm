@@ -217,7 +217,8 @@ if __name__ == "__main__":
     
 ```
 ## Output:
-![alt text](image-1.png)
+<img width="352" height="536" alt="image" src="https://github.com/user-attachments/assets/7246fd58-5f23-46fe-a1d3-65ce420d0af6" />
+
 
 ## Result:
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
